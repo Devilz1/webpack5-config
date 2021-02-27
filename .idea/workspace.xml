@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bb99499-2310-4a61-88da-4175fe37537e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5bb99499-2310-4a61-88da-4175fe37537e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,21 +33,41 @@
       <workItem from="1613934695520" duration="511000" />
       <workItem from="1613935246140" duration="637000" />
       <workItem from="1613935906140" duration="699000" />
-      <workItem from="1614406492787" duration="331000" />
+      <workItem from="1614406492787" duration="597000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial webpack setup, ignore files">
+      <created>1614406889966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614406889966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial webpack setup, ignore files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial webpack setup, ignore files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613935405234">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613935405234" />
+    <state x="583" y="107" key="CommitChangelistDialog2" timestamp="1614406889439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614406889439" />
     <state x="922" y="168" key="SettingsEditor" timestamp="1613935895116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1613935895116" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1614406894104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614406894104" />
   </component>
 </project>
